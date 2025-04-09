@@ -1,4 +1,4 @@
-# Polkadot Batch Transaction Generator
+# Substrate Batch Transaction Generator
 
 A web application that allows users to upload a CSV file containing Polkadot addresses and amounts, and generates batch transaction call data for use with polkadot.js apps.
 
